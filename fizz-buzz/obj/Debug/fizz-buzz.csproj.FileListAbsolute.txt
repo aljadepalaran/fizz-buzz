@@ -1,0 +1,7 @@
+C:\Users\palar_ntkahw7\Source\Repos\fizz-buzz\fizz-buzz\bin\Debug\fizz-buzz.exe.config
+C:\Users\palar_ntkahw7\Source\Repos\fizz-buzz\fizz-buzz\bin\Debug\fizz-buzz.exe
+C:\Users\palar_ntkahw7\Source\Repos\fizz-buzz\fizz-buzz\bin\Debug\fizz-buzz.pdb
+C:\Users\palar_ntkahw7\Source\Repos\fizz-buzz\fizz-buzz\obj\Debug\fizz-buzz.csprojAssemblyReference.cache
+C:\Users\palar_ntkahw7\Source\Repos\fizz-buzz\fizz-buzz\obj\Debug\fizz-buzz.csproj.CoreCompileInputs.cache
+C:\Users\palar_ntkahw7\Source\Repos\fizz-buzz\fizz-buzz\obj\Debug\fizz-buzz.exe
+C:\Users\palar_ntkahw7\Source\Repos\fizz-buzz\fizz-buzz\obj\Debug\fizz-buzz.pdb
